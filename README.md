@@ -92,7 +92,3 @@ npm run dev
 - Enhanced data visualization for employee performance metrics
 - Support for additional OpenAI models
 - File upload capabilities for document analysis
-
-## Contact
-
-For any questions about this implementation, please contact the development team.
